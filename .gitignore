@@ -1,2 +1,5 @@
 .idea
+metadata
+.architect
+extsql.xds
 php/config.php
